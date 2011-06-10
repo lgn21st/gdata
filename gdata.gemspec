@@ -78,8 +78,5 @@ Gem::Specification.new do |s|
     'test/ts_gdata_client.rb',
     'test/ts_gdata_http.rb'
   ]
-  s.description = <<EOF
-This gem provides a set of wrappers designed to make it easy to work with 
-the Google Data APIs.
-  EOF
+  s.description = "This gem provides a set of wrappers designed to make it easy to work with the Google Data APIs."
 end
